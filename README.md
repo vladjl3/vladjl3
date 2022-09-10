@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vladjl3
-- 👀 I’m interested in web development!
-- 🌱 I’m currently learning HTML/CSS, PHP, JavaScript, Wordpress.
-- 💞️ I’m looking to collaborate on something interesting.
+- 👋 Hi, I’m Vladislav!
+- 👀 I have experience with HTML/CSS, Wordpress, JavaScript, Angular, Docker.
+- 🌱 I’m currently learning Angular, NestJS frameworks and CI/CD concepts.
+- 👨‍💻 I’m looking to collaborate on something interesting.
 - 📫 You can reach me by email: vladjl3@yahoo.com
 
 <!---
