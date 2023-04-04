@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Vladislav!
-- 👀 I have experience with HTML/CSS, Wordpress, JavaScript, Angular, Docker.
-- 🌱 I’m currently learning Angular, NestJS frameworks and CI/CD concepts.
+- 👀 I have experience with HTML/CSS, Wordpress, PHP, JavaScript, Angular, Docker.
 - 👨‍💻 I’m looking to collaborate on something interesting.
 - 📫 You can reach me by email: vladjl3@yahoo.com
 
